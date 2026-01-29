@@ -1,7 +1,7 @@
 {
   "email": "syedsazzad.ali@marico.com",
   "password": "1amuSyman",
-  "reportUrl": "https://mblnet.maricoapps.biz/components/ordermanagement/order-page-gt-report",
+  "reportUrl": "https://mblnet.maricoapps.biz/components/ordermanagement/order-download-report",
   "headless": true,
   "outputFolder": ""
 }
